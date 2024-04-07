@@ -5,12 +5,12 @@
     </div>
     <div class="navigation bg-slate-900 py-3">
       <div
-        class="container mx-auto flex justify-between items-center text-white"
+        class="container mx-auto flex justify-between items-center text-white sm:px-6 px-4"
       >
         <div class="logo">
           <img src="/assets/images/navbar-logo.svg" alt="" />
         </div>
-        <div class="menu">
+        <div class="menu hidden lg:block">
           <ul class="flex gap-5">
             <li><a href="#">Work</a></li>
             <li><a href="#">Health</a></li>

@@ -1,6 +1,6 @@
 <template>
-  <div class="container mx-auto py-20">
-    <div class="grid grid-cols-2">
+  <div class="container mx-auto py-20 px-4">
+    <div class="grid grid-cols-2 sm:grid-rows-1">
       <div class="left">
         <h1 class="text-4xl mb-4">World's Best Hospitals 2023</h1>
         <p class="mb-3">
